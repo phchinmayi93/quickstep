@@ -1,0 +1,91 @@
+QuickStep Computer Center | AWS
+Welcome to QuickStep Computer Center
+Menu
+Home
+About Us
+Courses
+Gallery
+Contact
+Placement
+AWS
+Home
+AWS
+20
+SEATS
+Course Description
+Cloud computing is the the use of various services, such as software development platforms, servers, storage and software, over the internet, often referred to as the "cloud." ... The back-end of the application (especially hardware) is completely managed by a cloud vendor.
+This Instructor-led comprehensive AWS Training ( AWS Solutions Architect â Associate and Sysops Administrator ) intended to tell the best way to arrange and run Cloud Services in Amazon Web Services (AWS) entirely through to IaaS with involved insight on AWS Public cloud.
+This course gives a solid establishment in executing and planning cloud administrations.
+Course Syallabus
+Introduction to AWS DEVOPS
+AWS Web Services
+Basic of Linux for AWS
+Amazon Elastic Compute Cloud (EC2) (Complete)
+AWS S3
+VPC
+Creation of Internet gateways(IGW)
+IAM
+Dynamo DB
+RDS
+Redshift
+Direct connect
+Route 53
+ElastiCache
+Config
+Trusted Advisor
+Elastic Beanstalk
+Glacier
+SES
+SQS
+SNS
+Cloud Watch
+Cloud Formation
+Cloud Front
+Cloud Trail
+Code deploy
+Workspaces
+Automation of jobs:
+Provisioning tools
+Monitoring tools
+Network Concepts
+Languages
+Contact Us
+×
+Contact Us
+Your Name
+Email
+Mobile Number
+Message
+Send Message
+Address
+11, 1st Floor, Unilet Store, Police Station, 80 Feet Rd
+above Unilet ,P&T Colony, RT Nagar, Bengaluru, Karnataka 560032
+Phone Number
++91 9743034376
++91 9739204786
+Email Address
+[email protected]
+[email protected]
+We are one of the few education and training organization in India who have received this accreditation. This accreditation is recognized by Government of India.
+WHY QUICKSTEP?
+30+ Years of Training Experience.
+Industrial Based Projects.
+Quality Education & Affordable Cost.
+Quickstep has a dedicated Placement Team.
+Interview Skills Training & Placement Assistance.
+Internships for all kind of Students.
+Final Years Projects.
+All kinds of Projects Develpment.
+"We will be a Part of Your Life".
+OUR SITEMAP
+Home
+About
+Courses
+Courses Details
+Contact
+FLICKR FEED
+Â© 2020
+Quickstep Computer Center
+Developed by
+Smart Business Point Software Solutions +91 8099747554
+| All Rights Reserved.

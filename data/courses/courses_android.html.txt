@@ -1,0 +1,80 @@
+QuickStep Computer Center | Android
+Welcome to QuickStep Computer Center
+Menu
+Home
+About Us
+Courses
+Gallery
+Contact
+Placement
+Android
+Home
+Android
+170
+SEATS
+Course Description
+Android Training :-
+Mobility Android training imparts the knowledge and skills to take on the Android world. The learner will experience the essentials of the Android application plan. Beginning with the exhibition of the IDE's, the preparation takes you through android improvement devices, for example, AVD and ADB. This preparation will expand your competency by encouraging active presentation with Android application advancement and Google Web administration. All through the course, the student will go over constant models that can serve a solid establishment while dealing with live tasks.
+End Of the  Android training course, you will be able to:
+â¢   Understand Android basics and design
+â¢   Build and send Android applications
+â¢   Use diverse IDEs, in particular, Eclipse, or IntelliJ Studio for application improvement
+â¢   Exploring Android advancement instruments for constant troubleshooting and testing applications
+â¢   Apply Java Fundamentals for Android Application Development
+â¢   Perform activities utilizing Android UI and have a great comprehension of screen direction and formats
+â¢   Activate various goals, exercises, and classes
+â¢   Work on Android broadcast collectors and administrations
+â¢   Utilize distinctive inbuilt APIs to perform an activity like getting to plan to utilize Google Web administration
+â¢   Use different application building squares, for example, information bases, correspondence, date, and time.
+â¢   Build applications dependent on the ideas learned in the preparation
+Course Syllabus
+Introduction Android
+OOPS
+Framework
+Applets
+AWT
+SWING
+Android Application Structure
+AndroidManifest
+Android Virtual Device
+Preferences
+Contact Us
+×
+Contact Us
+Your Name
+Email
+Mobile Number
+Message
+Send Message
+Address
+11, 1st Floor, Unilet Store, Police Station, 80 Feet Rd
+above Unilet ,P&T Colony, RT Nagar, Bengaluru, Karnataka 560032
+Phone Number
++91 9743034376
++91 9739204786
+Email Address
+[email protected]
+[email protected]
+We are one of the few education and training organization in India who have received this accreditation. This accreditation is recognized by Government of India.
+WHY QUICKSTEP?
+30+ Years of Training Experience.
+Industrial Based Projects.
+Quality Education & Affordable Cost.
+Quickstep has a dedicated Placement Team.
+Interview Skills Training & Placement Assistance.
+Internships for all kind of Students.
+Final Years Projects.
+All kinds of Projects Develpment.
+"We will be a Part of Your Life".
+OUR SITEMAP
+Home
+About
+Courses
+Courses Details
+Contact
+FLICKR FEED
+Â© 2020
+Quickstep Computer Center
+Developed by
+Smart Business Point Software Solutions +91 8099747554
+| All Rights Reserved.

@@ -1,0 +1,82 @@
+QuickStep Computer Center | C++ Programming
+Welcome to QuickStep Computer Center
+Menu
+Home
+About Us
+Courses
+Gallery
+Contact
+Placement
+C++ Programming
+Home
+C++ Programming
+170
+SEATS
+Course Description
+"C++ is a general-purpose object-oriented programming (OOP) language, developed by Bjarne Stroustrup, and is an extension of the C language. It is therefore possible to code C++ in a "C style" or "object-oriented style".
+Course Syallabus
+Structure of a program Variables.
+Data Types.
+Constants.
+Operators.
+Basic Input/Output.
+Control Structures:
+Control Structures
+Functions (I)
+Functions (II)
+Compound Data Types:
+Arrays
+Character Sequences
+Pointers
+Dynamic Memory
+Data Structures
+Other Data Types
+Object Oriented Programming:
+Classes (I)
+Classes (II)
+Friendship and inheritance
+Polymorphism
+Advanced Concepts:
+Templates
+Namespaces
+Exceptions
+Contact Us
+×
+Contact Us
+Your Name
+Email
+Mobile Number
+Message
+Send Message
+Address
+11, 1st Floor, Unilet Store, Police Station, 80 Feet Rd
+above Unilet ,P&T Colony, RT Nagar, Bengaluru, Karnataka 560032
+Phone Number
++91 9743034376
++91 9739204786
+Email Address
+[email protected]
+[email protected]
+We are one of the few education and training organization in India who have received this accreditation. This accreditation is recognized by Government of India.
+WHY QUICKSTEP?
+30+ Years of Training Experience.
+Industrial Based Projects.
+Quality Education & Affordable Cost.
+Quickstep has a dedicated Placement Team.
+Interview Skills Training & Placement Assistance.
+Internships for all kind of Students.
+Final Years Projects.
+All kinds of Projects Develpment.
+"We will be a Part of Your Life".
+OUR SITEMAP
+Home
+About
+Courses
+Courses Details
+Contact
+FLICKR FEED
+Â© 2020
+Quickstep Computer Center
+Developed by
+Smart Business Point Software Solutions +91 8099747554
+| All Rights Reserved.
