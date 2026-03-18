@@ -32,7 +32,7 @@ export default function Navbar() {
        <Link href="/" className="flex items-center">
          <Image
     src="/logo1.png"
-    alt="EDUMINT Logo"
+    alt="Quickstep Logo"
     width={350}
     height={250}
     className="object-contain"
