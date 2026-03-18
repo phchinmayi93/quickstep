@@ -100,7 +100,7 @@ export default function Navbar() {
           </Link>
 
           <Link
-            href="#"
+            href="/courses"
             onClick={() => setIsOpen(false)}
             className="block text-[#00006c] hover:text-[#ffb000]"
           >
@@ -108,15 +108,15 @@ export default function Navbar() {
           </Link>
 
           <Link
-            href="#"
+            href="/gallery"
             onClick={() => setIsOpen(false)}
             className="block text-[#00006c] hover:text-[#ffb000]"
           >
-            Pages
+           Gallery
           </Link>
 
           <Link
-            href="#"
+            href="/blog"
             onClick={() => setIsOpen(false)}
             className="block text-[#00006c] hover:text-[#ffb000]"
           >
@@ -124,7 +124,7 @@ export default function Navbar() {
           </Link>
 
           <Link
-            href="#"
+            href="/contact"
             onClick={() => setIsOpen(false)}
             className="block text-[#00006c] hover:text-[#ffb000]"
           >
@@ -132,12 +132,10 @@ export default function Navbar() {
           </Link>
 
           <div className="pt-4 border-t">
-            <button className="block w-full text-left text-[#00006c] mb-3 hover:text-[#ffb000]">
-              Sign In
-            </button>
+          
 
             <button className="w-full bg-[#ffb000] text-[#00006c] py-2 rounded-md font-semibold">
-              Sign Up
+             ENROLL NOW
             </button>
           </div>
 
