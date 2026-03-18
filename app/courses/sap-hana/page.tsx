@@ -202,7 +202,7 @@ export default function SAPHANACourse() {
       {showForm && (
         <LeadForm
           course={courseTitle}
-          pdfs={[syllabusPdf1, syllabusPdf2]}
+          pdf={syllabusPdf1}
           onClose={() => setShowForm(false)}
         />
       )}

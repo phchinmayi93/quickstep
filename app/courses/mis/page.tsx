@@ -162,7 +162,7 @@ export default function CoursePage() {
       {showForm && (
         <LeadForm
           course={courseTitle}
-          pdfs={["/syllabus/mis.pdf"]}
+          pdf={"/syllabus/mis.pdf"}
           onClose={() => setShowForm(false)}
         />
       )}

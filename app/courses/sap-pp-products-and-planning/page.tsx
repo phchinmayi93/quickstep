@@ -174,7 +174,7 @@ export default function SAPPPCourse() {
       {showForm && (
         <LeadForm
           course={courseTitle}
-          pdfs={[syllabusPdf]}
+          pdf={syllabusPdf}
           onClose={() => setShowForm(false)}
         />
       )}
